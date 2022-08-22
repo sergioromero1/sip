@@ -1,0 +1,506 @@
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.6 D: 2.1 cantidad: 5
+TCLL277
+TCLL278
+TCLL292
+TCLL324
+TCLL369
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.1 D: 2.7 cantidad: 6
+TCLL120N
+TCLL199N
+TCLL206
+TCLL307
+TCLL308
+TCLL430
+tipo: AA100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.3 D: 4.0 cantidad: 20
+TCLL408
+TCLL409
+TCLL470N
+TCLL476
+TCLL479V
+TCLL221
+TCLL309
+TCLL310
+TCLL33N
+TCLL340
+TCLL383
+TCLL407
+TCLL413
+TCLL447
+TCLL448
+TCLL454
+TCLL455
+TCLL464N
+TCLL504
+TCLL71
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.0 D: 3.0 cantidad: 1
+TCLL502
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.2 D: 3.0 cantidad: 20
+TCLL109
+TCLL149
+TCLL150
+TCLL178
+TCLL204
+TCLL232
+TCLL255
+TCLL363
+TCLL419
+TCLL420
+TCLL421
+TCLL422
+TCLL425
+TCLL446
+TCLL7
+TCLL70
+TCLL72
+TCLL85
+TCLL96
+TCLL99
+tipo: B100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 4.1 D: 2.2 cantidad: 3
+TCLL130N
+TCLL265
+TCLL398
+tipo: TR100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.6 D: 4.0 cantidad: 1
+TCLL90
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.8 D: 4.0 cantidad: 14
+TCLL189
+TCLL195
+TCLL213N
+TCLL214N
+TCLL287
+TCLL29
+TCLL304
+TCLL331
+TCLL424
+TCLL441N
+TCLL499N
+TCLL60
+TCLL80N
+TCLL82
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.7 D: 3.0 cantidad: 26
+TCLL12N
+TCLL216N
+TCLL218N
+TCLL227N
+TCLL234
+TCLL294
+TCLL328
+TCLL350V
+TCLL36
+TCLL39
+TCLL41
+TCLL42
+TCLL43
+TCLL445
+TCLL46
+TCLL466N
+TCLL471
+TCLL48
+TCLL483V
+TCLL491V
+TCLL497
+TCLL54N
+TCLL57
+TCLL58
+TCLL59
+TCLL62
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.8 D: 2.1 cantidad: 8
+TCLL257
+TCLL258
+TCLL282
+TCLL285
+TCLL336
+TCLL337
+TCLL351V
+TCLL373
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.0 D: 3.9 cantidad: 4
+TCLL103
+TCLL185
+TCLL203
+TCLL355
+tipo: B100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.7 D: 2.6 cantidad: 9
+TCLL105V
+TCLL123N
+TCLL125N
+TCLL28
+TCLL374
+TCLL86N
+TCLL88
+TCLL95
+TCLL98
+tipo: C100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 4.2 D: 3.0 cantidad: 7
+TCLL10
+TCLL110
+TCLL115N
+TCLL250=TCLL240
+TCLL344
+TCLL38
+TCLL44
+tipo: TR100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 4.0 D: 2.7 cantidad: 2
+TCLL280
+TCLL431
+tipo: AA100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.9 D: 4.0 cantidad: 3
+TCLL101N
+TCLL184
+TCLL61
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.3 D: 2.0 cantidad: 7
+TCLL102N
+TCLL268
+TCLL269
+TCLL364
+TCLL376
+TCLL377
+TCLL388
+tipo: B100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.7 D: 2.9 cantidad: 14
+TCLL316
+TCLL387
+TCLL485V
+TCLL52
+TCLL219
+TCLL23
+TCLL40
+TCLL444
+TCLL458
+TCLL473
+TCLL480V
+TCLL488V
+TCLL492V
+TCLL55
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.8 D: 3.0 cantidad: 4
+TCLL228
+TCLL357
+TCLL400
+TCLL84
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.8 D: 2.1 cantidad: 6
+TCLL186
+TCLL235N
+TCLL253
+TCLL289
+TCLL375
+TCLL426
+tipo: B100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 4.4 D: 4.0 cantidad: 3
+TCLL190
+TCLL286
+TCLL490V
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.1 D: 2.6 cantidad: 5
+TCLL284
+TCLL302N
+TCLL362
+TCLL371
+TCLL378
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.4 D: 2.3 cantidad: 4
+TCLL113N
+TCLL148
+TCLL173N
+TCLL254
+tipo: C100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.8 D: 4.0 cantidad: 8
+TCLL100N
+TCLL112N
+TCLL127N
+TCLL152
+	 TCLL152 2.0 No cumple
+		 volcamiento-long_max
+TCLL196
+TCLL352
+TCLL510A
+TCLL94
+tipo: AA100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.9 D: 3.0 cantidad: 2
+TCLL288
+TCLL325
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 4.3 D: 2.2 cantidad: 4
+TCLL273
+TCLL275
+TCLL76
+TCLL281
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.7 D: 2.3 cantidad: 2
+TCLL209
+TCLL382
+tipo: C100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.5 D: 3.8 cantidad: 6
+TCLL119
+TCLL121
+TCLL126V
+TCLL179
+	 TCLL179 1.5 No cumple
+		 volcamiento-tran_max
+	 TCLL179 2.0 No cumple
+		 volcamiento-tran_max
+TCLL187
+TCLL361
+tipo: DT100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 4.1 D: 3.2 cantidad: 1
+TCLL511N
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.1 D: 3.0 cantidad: 1
+TCLL267
+tipo: AA100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.0 D: 3.0 cantidad: 2
+TCLL293
+TCLL354
+tipo: C100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.8 D: 3.4 cantidad: 4
+TCLL151
+TCLL182
+TCLL322
+TCLL34
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.1 D: 2.2 cantidad: 16
+TCLL263
+TCLL264
+TCLL266
+TCLL303
+TCLL305
+TCLL306
+TCLL313
+TCLL348AVN
+TCLL366
+TCLL368
+TCLL370
+TCLL372
+TCLL379
+TCLL508
+TCLL283
+TCLL365
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.1 D: 3.0 cantidad: 43
+TCLL111N
+TCLL171NN
+TCLL174
+TCLL176
+TCLL177
+TCLL183
+TCLL193N
+TCLL200N
+TCLL202
+TCLL205
+TCLL207
+TCLL211N
+TCLL230N
+TCLL233
+TCLL237
+TCLL239
+TCLL24
+TCLL26
+TCLL27
+TCLL323
+TCLL326
+TCLL332
+TCLL333
+TCLL339
+TCLL341
+TCLL342
+TCLL343
+TCLL345
+TCLL348BV
+TCLL392
+TCLL394
+TCLL395
+TCLL401
+TCLL427
+TCLL432
+TCLL434
+TCLL67N
+TCLL69
+TCLL74
+TCLL75
+TCLL77
+TCLL79N
+TCLL97
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.1 D: 4.0 cantidad: 47
+TCLL13
+TCLL14
+TCLL18
+TCLL20
+TCLL217
+TCLL21N
+TCLL22
+TCLL220N
+TCLL224N
+TCLL225
+TCLL226
+TCLL229
+TCLL231
+TCLL238
+TCLL25N
+TCLL317
+TCLL329
+TCLL389
+TCLL396
+TCLL404
+TCLL411
+TCLL412
+TCLL414
+TCLL416
+TCLL417
+TCLL418
+TCLL423N
+TCLL429
+TCLL437
+TCLL438
+TCLL443N
+TCLL449
+TCLL450
+TCLL451
+TCLL452
+TCLL457
+TCLL459
+TCLL460
+TCLL465
+TCLL467
+TCLL468
+TCLL469
+TCLL482V
+TCLL492VA
+TCLL505
+TCLL506
+TCLL92N
+tipo: AA100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.6 D: 2.1 cantidad: 6
+TCLL17
+TCLL291
+TCLL301
+TCLL402
+TCLL489V
+TCLL51
+tipo: C100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 4.1 D: 3.2 cantidad: 10
+TCLL212
+TCLL215N
+TCLL297V
+	 TCLL297V 2.0 No cumple
+		 cap_port-long_max
+TCLL37
+TCLL415
+TCLL477
+TCLL481V
+TCLL484V
+TCLL495
+TCLL50
+tipo: D100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.2 D: 3.3 cantidad: 3
+TCLL116
+TCLL117
+TCLL346
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.6 D: 2.3 cantidad: 19
+TCLL104V
+TCLL153
+TCLL251
+TCLL252
+TCLL256
+TCLL260
+TCLL314
+TCLL335
+TCLL338
+TCLL35
+TCLL356
+TCLL359
+TCLL381
+TCLL386
+TCLL390
+TCLL397
+TCLL403
+TCLL64
+TCLL89
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.4 D: 2.8 cantidad: 19
+TCLL19
+TCLL192
+TCLL194
+TCLL197N
+TCLL259
+TCLL261
+TCLL30N
+TCLL31
+TCLL334
+TCLL435
+TCLL442N
+TCLL453
+TCLL456
+TCLL45N
+TCLL461N
+TCLL463
+TCLL475
+TCLL66N
+TCLL78
+tipo: AA100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.2 D: 3.0 cantidad: 1
+TCLL298V
+tipo: D100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 4.0 D: 3.7 cantidad: 6
+TCLL107
+TCLL124N
+TCLL175
+TCLL510
+TCLL65
+TCLL81
+tipo: D100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 4.3 D: 4.0 cantidad: 7
+TCLL11
+TCLL296V
+TCLL299
+TCLL347V
+TCLL439
+TCLL496
+TCLL498
+tipo: A100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 2.0 D: 3.6 cantidad: 14
+TCLL114N
+TCLL180N
+TCLL188
+TCLL198
+TCLL208
+TCLL210
+TCLL320
+TCLL321
+TCLL353
+TCLL358
+TCLL360
+TCLL391
+TCLL393
+TCLL509
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.3 D: 4.0 cantidad: 10
+TCLL15
+TCLL16
+TCLL222
+TCLL236N
+TCLL405
+TCLL410
+TCLL436
+TCLL472N
+TCLL474
+TCLL68
+tipo: B100 concreto: 21.0Mpa - rel a/mc: Según el diseño de mezcla B: 3.4 D: 2.5 cantidad: 15
+TCLL106V
+TCLL108N
+TCLL122N
+TCLL170NN
+TCLL181N
+TCLL201
+TCLL312N
+TCLL330
+TCLL349V
+TCLL406
+TCLL428
+TCLL507
+TCLL87
+TCLL91
+TCLL169
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.6 D: 2.5 cantidad: 8
+TCLL223
+TCLL315
+TCLL319
+TCLL380
+TCLL399
+TCLL487V
+TCLL500N
+TCLL56
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.0 D: 2.5 cantidad: 8
+TCLL262
+TCLL270
+TCLL271
+TCLL367
+TCLL384
+TCLL385
+TCLL492VB
+TCLL83
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 3.7 D: 2.2 cantidad: 5
+TCLL272
+TCLL276
+TCLL300
+TCLL486V
+TCLL494
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.5 D: 3.1 cantidad: 4
+TCLL462
+TCLL53
+TCLL63
+TCLL93
+tipo: A100 concreto: 28.0Mpa - rel a/mc: 0.5 B: 2.1 D: 2.8 cantidad: 5
+TCLL318
+TCLL327
+TCLL433
+TCLL440N
+TCLL478V
